@@ -1,0 +1,2 @@
+jboss-eap-6.1.zip.001 filter=lfs diff=lfs merge=lfs -text
+jboss-eap-6.1.zip.002 filter=lfs diff=lfs merge=lfs -text
